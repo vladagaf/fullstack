@@ -1,19 +1,15 @@
 # Lead Manager
 
-> Full stack Django/React/Redux app that uses token based authentication with Knox.
+> Full stack Django/React/Redux
 
 ## Quick Start
 
 ```bash
-# Install dependencies
-npm install
+# python leadmanager/manage.py migrate
 
-# Serve API on localhost:8000
-python leadmanager/manage.py runserver
+# python leadmanager/manage.py runserver
 
-# Run webpack (from root)
-npm run dev
+# npm run dev
 
-# Build for production
-npm run build
+# npm run build
 ```

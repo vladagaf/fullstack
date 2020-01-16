@@ -5,6 +5,8 @@
 ## Quick Start
 
 ```bash
+# pip install django-rest-knox
+
 # python leadmanager/manage.py migrate
 
 # python leadmanager/manage.py runserver
